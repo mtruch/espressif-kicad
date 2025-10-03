@@ -3,8 +3,8 @@
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
-	(descr "ESP32-C6 general-purpose development board, based on ESP32-2-WROOM-1,It has all the ESP32-C6 pins exposed and is easy to connect and use.")
-	(tags "ESP32-C6")
+	(descr "ESP32-H2 general-purpose development board,It has all the ESP32-CH2 pins exposed and is easy to connect and use.")
+	(tags "ESP32-H2")
 	(property "Reference" "REF**"
 		(at 11.6078 -2.8448 0)
 		(layer "F.SilkS")
